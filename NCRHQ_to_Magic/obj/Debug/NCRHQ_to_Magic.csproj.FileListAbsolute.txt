@@ -1,0 +1,9 @@
+C:\Users\Kev\source\repos\NCRHQ_to_Magic\NCRHQ_to_Magic\bin\Debug\NCRHQ_to_Magic.exe.config
+C:\Users\Kev\source\repos\NCRHQ_to_Magic\NCRHQ_to_Magic\bin\Debug\NCRHQ_to_Magic.exe
+C:\Users\Kev\source\repos\NCRHQ_to_Magic\NCRHQ_to_Magic\bin\Debug\NCRHQ_to_Magic.pdb
+C:\Users\Kev\source\repos\NCRHQ_to_Magic\NCRHQ_to_Magic\obj\Debug\NCRHQ_to_Magic.csprojAssemblyReference.cache
+C:\Users\Kev\source\repos\NCRHQ_to_Magic\NCRHQ_to_Magic\obj\Debug\NCRHQ_to_Magic.exe
+C:\Users\Kev\source\repos\NCRHQ_to_Magic\NCRHQ_to_Magic\obj\Debug\NCRHQ_to_Magic.pdb
+C:\Users\Kev\source\repos\NCRHQ_to_Magic\NCRHQ_to_Magic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kev\source\repos\NCRHQ_to_Magic\NCRHQ_to_Magic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kev\source\repos\NCRHQ_to_Magic\NCRHQ_to_Magic\obj\Debug\NCRHQ_to_Magic.csproj.CopyComplete
